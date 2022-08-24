@@ -1,13 +1,13 @@
 {
   "compilerOptions": {
-    "experimentalDecorators": true,
     /* Basic Options */
     "outDir": "app/dist/js",
-    "target": "ES6",
+    "target": "ES2020",
     "noEmitOnError": true,
     "noImplicitAny": true,
     "removeComments": true,
     "strictNullChecks": true,
+    "experimentalDecorators": true
   },
   "include": [
     "app/src/**/*"
