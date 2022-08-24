@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "experimentalDecorators": true,
     /* Basic Options */
     "outDir": "app/dist/js",
     "target": "ES6",
