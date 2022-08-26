@@ -12,7 +12,7 @@ export function escape (
       
       retorno = retorno.replace(/<script>[\s\S]*?<\/script>/, '');
     }
-    return retorno
+    return retorno;
   }
   return descriptor;
 }
