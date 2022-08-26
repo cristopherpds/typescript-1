@@ -19,3 +19,4 @@ if (btn) {
 else {
     throw Error("Borao importa nao foi encontrado.");
 }
+//# sourceMappingURL=app.js.map
